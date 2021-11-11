@@ -1,3 +1,9 @@
+# Uncontrolled forms have values not set by react.
+# instead handle data in onChange event
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
