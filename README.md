@@ -1,6 +1,8 @@
 # Uncontrolled forms have values not set by react.
 # instead handle data in onChange event
 
+# Controlled forms have an attribute value assigned for each component.
+#TODO:  resume on step 4 of https://www.digitalocean.com/community/tutorials/how-to-build-forms-in-react
 
 
 
